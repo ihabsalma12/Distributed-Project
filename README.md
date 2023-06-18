@@ -8,9 +8,9 @@
 4.	To run the server, access to the database is required through AWS where the owner adds the user’s IP address to the inbound rules.
 5.	PgAdmin is also required so the user can check the queries added to the tables after running the code.
 6.	Start the server :
-`python trial2_server.py`
+`python combined_server.py`
 7.	Start the client
-`python trial2_client.py`
+`python combined_client.py`
 8.	Now you should be able to log in and start the game along with chatting with other players.
 # How to Play
 •	Login to start the game and the chat.  
