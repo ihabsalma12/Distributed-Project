@@ -1,0 +1,4 @@
+eventlet==0.33.3
+psycopg2==2.9.6
+pygame==2.4.0
+python-socketio==5.8.0
