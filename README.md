@@ -2,6 +2,7 @@
 
 # To be able to run the source code
 1.	Clone the repository:
+
 git clone https://github.com/sarataha01/Distributed-Project
 2.	Install the required dependencies through the CMD.
 pip install -r requirements.txt
