@@ -13,17 +13,14 @@
 `python trial2_client.py`
 8.	Now you should be able to log in and start the game along with chatting with other players.
 # How to Play
-•	Login to start the game and the chat.
-•	A timer will start for all players when joined.
-•	Use the arrows keys to control the car.
-•	Collect coins to increase the score.
-•	Keep collecting coins until the timer runs out.
-•	Player with the highest score wins.
+•	Login to start the game and the chat.  
+•	A timer will start for all players when joined.  
+•	Use the arrows keys to control the car.  
+•	Collect coins to increase the score.  
+•	Keep collecting coins until the timer runs out.  
+•	Player with the highest score wins.  
 # Technologies used
 •	Python  
-
 •	Socket.IO  
-
 •	PostgreSQL  
-
 •	Pygame
