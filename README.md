@@ -1,6 +1,6 @@
 # Distributed-Project
 
-# To be able to run the source code
+# To be able to run the source code "CSE 354 Car Racing Game"
 1.	Clone the repository:
 `git clone https://github.com/sarataha01/Distributed-Project`
 3.	Install the required dependencies through the CMD.  
