@@ -20,7 +20,10 @@
 •	Keep collecting coins until the timer runs out.
 •	Player with the highest score wins.
 # Technologies used
-•	Python
-•	Socket.IO
-•	PostgreSQL
+•	Python  
+
+•	Socket.IO  
+
+•	PostgreSQL  
+
 •	Pygame
